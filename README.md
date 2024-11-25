@@ -1,6 +1,8 @@
 # 💫 About Me:
 QA Tester con amplía experiencia en la comprensión y aplicación de los principios y procesos de control de calidad en el desarrollo de software (Casos de prueba, API, Postman, Jira, Azure DevOps) Pruebas de aplicaciones móviles (Android y IOS) así como aplicaciones Web.
 
+QA Tester with extensive experience in understanding and applying quality control principles and processes in software development (Test Cases, API, Postman, Jira, Azure DevOps). Skilled in testing mobile applications (Android and iOS) as well as web applications.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/said-bernal-garc%C3%ADa-748b96193/) 
